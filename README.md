@@ -1,5 +1,5 @@
 # MIS-311
-## Part 1: Data Analysis and Insight
+## Data Analysis and Insight
 ### 1.Data Overview
 <img width="361" height="528" alt="image" src="https://github.com/user-attachments/assets/0e15b5fb-e498-45c6-aabf-fb2191ee62fe" />
 
