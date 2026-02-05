@@ -53,7 +53,8 @@ This table shows descriptive statistics for students' scores in math, reading, w
 **_Insight 1_**
 
 <img width="1185" height="527" alt="image" src="https://github.com/user-attachments/assets/e3c60e67-913a-41a1-bca4-356d09d4fce7" />
-<img width="1001" height="725" alt="image" src="https://github.com/user-attachments/assets/1973c6e9-528d-4742-a808-9ba38c7478b1" />
+<img width="1039" height="604" alt="image" src="https://github.com/user-attachments/assets/9335708a-4e5c-4629-8c67-2870804d5327" />
+
 
 The results showed that students whose parents had higher levels of education, such as bachelor’s or master’s degrees, tended to have higher average scores than other students. This suggests that parental education has a significant impact on children’s academic achievement. Understanding this can help schools and families provide appropriate support to help students from different backgrounds perform better in their studies.
 
